@@ -9,9 +9,6 @@ import java.util.UUID;
 import static constant.IConstantSecondPart.listOfCVE;
 
 public class TicketFactory {
-    public static Integer securitiesTicketsCount = 0;
-    public static Integer configurationTicketsCount = 0;
-    public static Integer bestPracticeTicketsCount = 0;
 
     Random r = new Random();
     Double calcRangeNumber = 10.0;
@@ -22,7 +19,7 @@ public class TicketFactory {
         }
         String ticketId = UUID.randomUUID().toString();
         Double randomSeverityScore = (r.nextDouble() * calcRangeNumber) % calcRangeNumber;
-        Integer randomCveLocation = r.nextInt(3);
+        Integer randomCveLocation = r.nextInt(4);
         switch (ticketType){
             case "Security":
                 return new SecurityTicket(ticketId, randomSeverityScore, listOfCVE.get(randomCveLocation), represent);

@@ -7,6 +7,7 @@ public abstract class Ticket {
     public static List<Ticket> ticketList = new ArrayList<>();
 
     public abstract String getId();
-    public abstract String getDescription();
+    public abstract String getCVE();
     public abstract String getSeverityLevel();
+    public abstract String getDescription();
 }

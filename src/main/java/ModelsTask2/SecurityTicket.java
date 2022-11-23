@@ -17,6 +17,12 @@ public class SecurityTicket extends Ticket {
         ticketList.add(this);
     }
 
+    @Override
+    public String getDescription() {
+        return this.securityRepresent;
+    }
+
+    @Override
     public String getCVE() {
         return CVE;
     }
@@ -24,11 +30,6 @@ public class SecurityTicket extends Ticket {
     @Override
     public String getId() {
         return this.id;
-    }
-
-    @Override
-    public String getDescription() {
-        return this.securityRepresent;
     }
 
     @Override

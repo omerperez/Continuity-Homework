@@ -16,13 +16,18 @@ public class ConfigurationTicket extends Ticket {
     }
 
     @Override
+    public String getDescription() {
+        return this.configRepresent;
+    }
+
+    @Override
     public String getId() {
         return this.id;
     }
 
     @Override
-    public String getDescription() {
-        return this.configRepresent;
+    public String getCVE() {
+        return null;
     }
 
     @Override
