@@ -1,9 +1,7 @@
 package constant;
 
-public interface IConstant {
-    final class StandardCharsets {
-        public static final String UTF_8 =  "utf-8";
-    }
+public interface IConstantFirstPart {
+
     final class Paths {
         public static final String baseUrl = "https://jsonplaceholder.typicode.com/";
         public static final String posts = "posts";
@@ -13,8 +11,5 @@ public interface IConstant {
         public static final String todos = "todos";
         public static final String users = "users";
         public static final String uncompletedTask = "?&completed=false";
-    }
-    final class MessageTemplate {
-
     }
 }

@@ -1,16 +1,25 @@
-package Data;
+package Models;
 
-public class Task {
+public class Album {
+    private Integer userId;
     private Integer id;
     private String title;
-    private Boolean status;
 
-    public Task() {}
+    public Album() {
+    }
 
-    public Task(Integer id, String title, Boolean taskStatus) {
+    public Album(Integer userId, Integer id, String title) {
+        this.userId = userId;
         this.id = id;
         this.title = title;
-        this.status = taskStatus;
+    }
+
+    public Integer getUserId() {
+        return userId;
+    }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
     }
 
     public Integer getId() {
@@ -29,22 +38,12 @@ public class Task {
         this.title = title;
     }
 
-    public Boolean getStatus() {
-        return status;
-    }
-
-    public void setStatus(Boolean status) {
-        this.status = status;
-    }
-
     @Override
     public String toString() {
-        return "Task{" +
-                "id=" + id +
+        return "Album{" +
+                "userId=" + userId +
+                ", id=" + id +
                 ", title='" + title + '\'' +
-                ", status=" + status +
                 '}';
     }
 }
-
-

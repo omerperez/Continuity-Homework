@@ -1,15 +1,15 @@
-package Data;
+package Models;
 
 public class Photo {
-    private Long albumId;
-    private Long id;
+    private Integer albumId;
+    private Integer id;
     private String title;
     private String url;
     private String thumbnailUrl;
 
     public Photo() {}
 
-    public Photo(Long albumId, Long id, String title, String url, String thumbnailUrl) {
+    public Photo(Integer albumId, Integer id, String title, String url, String thumbnailUrl) {
         this.albumId = albumId;
         this.id = id;
         this.title = title;
@@ -17,19 +17,19 @@ public class Photo {
         this.thumbnailUrl = thumbnailUrl;
     }
 
-    public Long getAlbumId() {
+    public Integer getAlbumId() {
         return albumId;
     }
 
-    public void setAlbumId(Long albumId) {
+    public void setAlbumId(Integer albumId) {
         this.albumId = albumId;
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

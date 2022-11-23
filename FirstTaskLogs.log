@@ -1,0 +1,261 @@
+נוב 23, 2022 3:42:27 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:29 AM MainTrainTask1 main
+INFO: * * * Get All Uncompleted Tasks From todos api * * *
+נוב 23, 2022 3:42:29 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:29 AM MainTrainTask1 main
+INFO: * * * Uncompleted Todos From Api : [1=[Todo{userId=1, id=1, title='delectus aut autem', completed=false}, Todo{userId=1, id=2, title='quis ut nam facilis et officia qui', completed=false}, Todo{userId=1, id=3, title='fugiat veniam minus', completed=false}, Todo{userId=1, id=5, title='laboriosam mollitia et enim quasi adipisci quia provident illum', completed=false}, Todo{userId=1, id=6, title='qui ullam ratione quibusdam voluptatem quia omnis', completed=false}, Todo{userId=1, id=7, title='illo expedita consequatur quia in', completed=false}, Todo{userId=1, id=9, title='molestiae perspiciatis ipsa', completed=false}, Todo{userId=1, id=13, title='et doloremque nulla', completed=false}, Todo{userId=1, id=18, title='dolorum est consequatur ea mollitia in culpa', completed=false}], 2=[Todo{userId=2, id=21, title='suscipit repellat esse quibusdam voluptatem incidunt', completed=false}, Todo{userId=2, id=23, title='et itaque necessitatibus maxime molestiae qui quas velit', completed=false}, Todo{userId=2, id=24, title='adipisci non ad dicta qui amet quaerat doloribus ea', completed=false}, Todo{userId=2, id=28, title='nesciunt totam sit blanditiis sit', completed=false}, Todo{userId=2, id=29, title='laborum aut in quam', completed=false}, Todo{userId=2, id=31, title='repudiandae totam in est sint facere fuga', completed=false}, Todo{userId=2, id=32, title='earum doloribus ea doloremque quis', completed=false}, Todo{userId=2, id=33, title='sint sit aut vero', completed=false}, Todo{userId=2, id=34, title='porro aut necessitatibus eaque distinctio', completed=false}, Todo{userId=2, id=37, title='sunt cum tempora', completed=false}, Todo{userId=2, id=38, title='totam quia non', completed=false}, Todo{userId=2, id=39, title='doloremque quibusdam asperiores libero corrupti illum qui omnis', completed=false}], 3=[Todo{userId=3, id=41, title='aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit', completed=false}, Todo{userId=3, id=42, title='rerum perferendis error quia ut eveniet', completed=false}, Todo{userId=3, id=45, title='velit soluta adipisci molestias reiciendis harum', completed=false}, Todo{userId=3, id=46, title='vel voluptatem repellat nihil placeat corporis', completed=false}, Todo{userId=3, id=47, title='nam qui rerum fugiat accusamus', completed=false}, Todo{userId=3, id=48, title='sit reprehenderit omnis quia', completed=false}, Todo{userId=3, id=49, title='ut necessitatibus aut maiores debitis officia blanditiis velit et', completed=false}, Todo{userId=3, id=51, title='distinctio exercitationem ab doloribus', completed=false}, Todo{userId=3, id=52, title='nesciunt dolorum quis recusandae ad pariatur ratione', completed=false}, Todo{userId=3, id=53, title='qui labore est occaecati recusandae aliquid quam', completed=false}, Todo{userId=3, id=57, title='pariatur et magnam ea doloribus similique voluptatem rerum quia', completed=false}, Todo{userId=3, id=58, title='est dicta totam qui explicabo doloribus qui dignissimos', completed=false}, Todo{userId=3, id=59, title='perspiciatis velit id laborum placeat iusto et aliquam odio', completed=false}], 4=[Todo{userId=4, id=62, title='et placeat et tempore aspernatur sint numquam', completed=false}, Todo{userId=4, id=64, title='voluptas consequatur qui ut quia magnam nemo esse', completed=false}, Todo{userId=4, id=65, title='fugiat pariatur ratione ut asperiores necessitatibus magni', completed=false}, Todo{userId=4, id=66, title='rerum eum molestias autem voluptatum sit optio', completed=false}, Todo{userId=4, id=67, title='quia voluptatibus voluptatem quos similique maiores repellat', completed=false}, Todo{userId=4, id=68, title='aut id perspiciatis voluptatem iusto', completed=false}, Todo{userId=4, id=69, title='doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit', completed=false}, Todo{userId=4, id=70, title='ut sequi accusantium et mollitia delectus sunt', completed=false}, Todo{userId=4, id=71, title='aut velit saepe ullam', completed=false}, Todo{userId=4, id=72, title='praesentium facilis facere quis harum voluptatibus voluptatem eum', completed=false}, Todo{userId=4, id=74, title='expedita tempore nobis eveniet laborum maiores', completed=false}, Todo{userId=4, id=75, title='occaecati adipisci est possimus totam', completed=false}, Todo{userId=4, id=77, title='maiores aut nesciunt delectus exercitationem vel assumenda eligendi at', completed=false}, Todo{userId=4, id=78, title='reiciendis est magnam amet nemo iste recusandae impedit quaerat', completed=false}], 5=[Todo{userId=5, id=82, title='voluptates eum voluptas et dicta', completed=false}, Todo{userId=5, id=84, title='sunt veritatis ut voluptate', completed=false}, Todo{userId=5, id=88, title='vitae aut excepturi laboriosam sint aliquam et et accusantium', completed=false}, Todo{userId=5, id=94, title='facilis modi saepe mollitia', completed=false}, Todo{userId=5, id=96, title='nobis suscipit ducimus enim asperiores voluptas', completed=false}, Todo{userId=5, id=97, title='dolorum laboriosam eos qui iure aliquam', completed=false}, Todo{userId=5, id=99, title='neque voluptates ratione', completed=false}, Todo{userId=5, id=100, title='excepturi a et neque qui expedita vel voluptate', completed=false}], 6=[Todo{userId=6, id=101, title='explicabo enim cumque porro aperiam occaecati minima', completed=false}, Todo{userId=6, id=102, title='sed ab consequatur', completed=false}, Todo{userId=6, id=103, title='non sunt delectus illo nulla tenetur enim omnis', completed=false}, Todo{userId=6, id=104, title='excepturi non laudantium quo', completed=false}, Todo{userId=6, id=107, title='praesentium facilis omnis laudantium fugit ad iusto nihil nesciunt', completed=false}, Todo{userId=6, id=111, title='magni accusantium labore et id quis provident', completed=false}, Todo{userId=6, id=112, title='consectetur impedit quisquam qui deserunt non rerum consequuntur eius', completed=false}, Todo{userId=6, id=113, title='quia atque aliquam sunt impedit voluptatum rerum assumenda nisi', completed=false}, Todo{userId=6, id=114, title='cupiditate quos possimus corporis quisquam exercitationem beatae', completed=false}, Todo{userId=6, id=115, title='sed et ea eum', completed=false}, Todo{userId=6, id=117, title='sequi quae est et qui qui eveniet asperiores', completed=false}, Todo{userId=6, id=118, title='quia modi consequatur vero fugiat', completed=false}, Todo{userId=6, id=119, title='corporis ducimus ea perspiciatis iste', completed=false}, Todo{userId=6, id=120, title='dolorem laboriosam vel voluptas et aliquam quasi', completed=false}], 7=[Todo{userId=7, id=123, title='esse et quis iste est earum aut impedit', completed=false}, Todo{userId=7, id=124, title='qui consectetur id', completed=false}, Todo{userId=7, id=125, title='aut quasi autem iste tempore illum possimus', completed=false}, Todo{userId=7, id=128, title='eius omnis est qui voluptatem autem', completed=false}, Todo{userId=7, id=129, title='rerum culpa quis harum', completed=false}, Todo{userId=7, id=131, title='qui ea incidunt quis', completed=false}, Todo{userId=7, id=134, title='molestiae doloribus et laborum quod ea', completed=false}, Todo{userId=7, id=135, title='facere ipsa nam eum voluptates reiciendis vero qui', completed=false}, Todo{userId=7, id=136, title='asperiores illo tempora fuga sed ut quasi adipisci', completed=false}, Todo{userId=7, id=137, title='qui sit non', completed=false}, Todo{userId=7, id=139, title='consequatur doloribus id possimus voluptas a voluptatem', completed=false}], 8=[Todo{userId=8, id=143, title='eum non recusandae cupiditate animi', completed=false}, Todo{userId=8, id=144, title='ut eum exercitationem sint', completed=false}, Todo{userId=8, id=145, title='beatae qui ullam incidunt voluptatem non nisi aliquam', completed=false}, Todo{userId=8, id=148, title='esse quas et quo quasi exercitationem', completed=false}, Todo{userId=8, id=149, title='animi voluptas quod perferendis est', completed=false}, Todo{userId=8, id=150, title='eos amet tempore laudantium fugit a', completed=false}, Todo{userId=8, id=152, title='odit eligendi recusandae doloremque cumque non', completed=false}, Todo{userId=8, id=153, title='ea aperiam consequatur qui repellat eos', completed=false}, Todo{userId=8, id=160, title='et praesentium aliquam est', completed=false}], 9=[Todo{userId=9, id=163, title='natus corrupti maxime laudantium et voluptatem laboriosam odit', completed=false}, Todo{userId=9, id=164, title='reprehenderit quos aut aut consequatur est sed', completed=false}, Todo{userId=9, id=165, title='fugiat perferendis sed aut quidem', completed=false}, Todo{userId=9, id=166, title='quos quo possimus suscipit minima ut', completed=false}, Todo{userId=9, id=167, title='et quis minus quo a asperiores molestiae', completed=false}, Todo{userId=9, id=168, title='recusandae quia qui sunt libero', completed=false}, Todo{userId=9, id=170, title='quisquam aliquam quia doloribus aut', completed=false}, Todo{userId=9, id=172, title='et provident amet rerum consectetur et voluptatum', completed=false}, Todo{userId=9, id=173, title='harum ad aperiam quis', completed=false}, Todo{userId=9, id=174, title='similique aut quo', completed=false}, Todo{userId=9, id=176, title='magni soluta corrupti ut maiores rem quidem', completed=false}, Todo{userId=9, id=177, title='et placeat temporibus voluptas est tempora quos quibusdam', completed=false}], 10=[Todo{userId=10, id=181, title='ut cupiditate sequi aliquam fuga maiores', completed=false}, Todo{userId=10, id=184, title='molestias modi perferendis perspiciatis', completed=false}, Todo{userId=10, id=185, title='voluptates dignissimos sed doloribus animi quaerat aut', completed=false}, Todo{userId=10, id=186, title='explicabo odio est et', completed=false}, Todo{userId=10, id=187, title='consequuntur animi possimus', completed=false}, Todo{userId=10, id=192, title='ut quas possimus exercitationem sint voluptates', completed=false}, Todo{userId=10, id=194, title='sed ut vero sit molestiae', completed=false}, Todo{userId=10, id=200, title='ipsam aperiam voluptates qui', completed=false}]]
+נוב 23, 2022 3:42:29 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 1
+נוב 23, 2022 3:42:29 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:29 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 1: [Todo{userId=1, id=1, title='delectus aut autem', completed=false}, Todo{userId=1, id=2, title='quis ut nam facilis et officia qui', completed=false}, Todo{userId=1, id=3, title='fugiat veniam minus', completed=false}, Todo{userId=1, id=5, title='laboriosam mollitia et enim quasi adipisci quia provident illum', completed=false}, Todo{userId=1, id=6, title='qui ullam ratione quibusdam voluptatem quia omnis', completed=false}, Todo{userId=1, id=7, title='illo expedita consequatur quia in', completed=false}, Todo{userId=1, id=9, title='molestiae perspiciatis ipsa', completed=false}, Todo{userId=1, id=13, title='et doloremque nulla', completed=false}, Todo{userId=1, id=18, title='dolorum est consequatur ea mollitia in culpa', completed=false}]
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 2
+נוב 23, 2022 3:42:30 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 2: [Todo{userId=2, id=21, title='suscipit repellat esse quibusdam voluptatem incidunt', completed=false}, Todo{userId=2, id=23, title='et itaque necessitatibus maxime molestiae qui quas velit', completed=false}, Todo{userId=2, id=24, title='adipisci non ad dicta qui amet quaerat doloribus ea', completed=false}, Todo{userId=2, id=28, title='nesciunt totam sit blanditiis sit', completed=false}, Todo{userId=2, id=29, title='laborum aut in quam', completed=false}, Todo{userId=2, id=31, title='repudiandae totam in est sint facere fuga', completed=false}, Todo{userId=2, id=32, title='earum doloribus ea doloremque quis', completed=false}, Todo{userId=2, id=33, title='sint sit aut vero', completed=false}, Todo{userId=2, id=34, title='porro aut necessitatibus eaque distinctio', completed=false}, Todo{userId=2, id=37, title='sunt cum tempora', completed=false}, Todo{userId=2, id=38, title='totam quia non', completed=false}, Todo{userId=2, id=39, title='doloremque quibusdam asperiores libero corrupti illum qui omnis', completed=false}]
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 3
+נוב 23, 2022 3:42:30 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 3: [Todo{userId=3, id=41, title='aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit', completed=false}, Todo{userId=3, id=42, title='rerum perferendis error quia ut eveniet', completed=false}, Todo{userId=3, id=45, title='velit soluta adipisci molestias reiciendis harum', completed=false}, Todo{userId=3, id=46, title='vel voluptatem repellat nihil placeat corporis', completed=false}, Todo{userId=3, id=47, title='nam qui rerum fugiat accusamus', completed=false}, Todo{userId=3, id=48, title='sit reprehenderit omnis quia', completed=false}, Todo{userId=3, id=49, title='ut necessitatibus aut maiores debitis officia blanditiis velit et', completed=false}, Todo{userId=3, id=51, title='distinctio exercitationem ab doloribus', completed=false}, Todo{userId=3, id=52, title='nesciunt dolorum quis recusandae ad pariatur ratione', completed=false}, Todo{userId=3, id=53, title='qui labore est occaecati recusandae aliquid quam', completed=false}, Todo{userId=3, id=57, title='pariatur et magnam ea doloribus similique voluptatem rerum quia', completed=false}, Todo{userId=3, id=58, title='est dicta totam qui explicabo doloribus qui dignissimos', completed=false}, Todo{userId=3, id=59, title='perspiciatis velit id laborum placeat iusto et aliquam odio', completed=false}]
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 4
+נוב 23, 2022 3:42:30 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 4: [Todo{userId=4, id=62, title='et placeat et tempore aspernatur sint numquam', completed=false}, Todo{userId=4, id=64, title='voluptas consequatur qui ut quia magnam nemo esse', completed=false}, Todo{userId=4, id=65, title='fugiat pariatur ratione ut asperiores necessitatibus magni', completed=false}, Todo{userId=4, id=66, title='rerum eum molestias autem voluptatum sit optio', completed=false}, Todo{userId=4, id=67, title='quia voluptatibus voluptatem quos similique maiores repellat', completed=false}, Todo{userId=4, id=68, title='aut id perspiciatis voluptatem iusto', completed=false}, Todo{userId=4, id=69, title='doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit', completed=false}, Todo{userId=4, id=70, title='ut sequi accusantium et mollitia delectus sunt', completed=false}, Todo{userId=4, id=71, title='aut velit saepe ullam', completed=false}, Todo{userId=4, id=72, title='praesentium facilis facere quis harum voluptatibus voluptatem eum', completed=false}, Todo{userId=4, id=74, title='expedita tempore nobis eveniet laborum maiores', completed=false}, Todo{userId=4, id=75, title='occaecati adipisci est possimus totam', completed=false}, Todo{userId=4, id=77, title='maiores aut nesciunt delectus exercitationem vel assumenda eligendi at', completed=false}, Todo{userId=4, id=78, title='reiciendis est magnam amet nemo iste recusandae impedit quaerat', completed=false}]
+נוב 23, 2022 3:42:30 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 5
+נוב 23, 2022 3:42:30 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 5: [Todo{userId=5, id=82, title='voluptates eum voluptas et dicta', completed=false}, Todo{userId=5, id=84, title='sunt veritatis ut voluptate', completed=false}, Todo{userId=5, id=88, title='vitae aut excepturi laboriosam sint aliquam et et accusantium', completed=false}, Todo{userId=5, id=94, title='facilis modi saepe mollitia', completed=false}, Todo{userId=5, id=96, title='nobis suscipit ducimus enim asperiores voluptas', completed=false}, Todo{userId=5, id=97, title='dolorum laboriosam eos qui iure aliquam', completed=false}, Todo{userId=5, id=99, title='neque voluptates ratione', completed=false}, Todo{userId=5, id=100, title='excepturi a et neque qui expedita vel voluptate', completed=false}]
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 6
+נוב 23, 2022 3:42:31 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 6: [Todo{userId=6, id=101, title='explicabo enim cumque porro aperiam occaecati minima', completed=false}, Todo{userId=6, id=102, title='sed ab consequatur', completed=false}, Todo{userId=6, id=103, title='non sunt delectus illo nulla tenetur enim omnis', completed=false}, Todo{userId=6, id=104, title='excepturi non laudantium quo', completed=false}, Todo{userId=6, id=107, title='praesentium facilis omnis laudantium fugit ad iusto nihil nesciunt', completed=false}, Todo{userId=6, id=111, title='magni accusantium labore et id quis provident', completed=false}, Todo{userId=6, id=112, title='consectetur impedit quisquam qui deserunt non rerum consequuntur eius', completed=false}, Todo{userId=6, id=113, title='quia atque aliquam sunt impedit voluptatum rerum assumenda nisi', completed=false}, Todo{userId=6, id=114, title='cupiditate quos possimus corporis quisquam exercitationem beatae', completed=false}, Todo{userId=6, id=115, title='sed et ea eum', completed=false}, Todo{userId=6, id=117, title='sequi quae est et qui qui eveniet asperiores', completed=false}, Todo{userId=6, id=118, title='quia modi consequatur vero fugiat', completed=false}, Todo{userId=6, id=119, title='corporis ducimus ea perspiciatis iste', completed=false}, Todo{userId=6, id=120, title='dolorem laboriosam vel voluptas et aliquam quasi', completed=false}]
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 7
+נוב 23, 2022 3:42:31 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 7: [Todo{userId=7, id=123, title='esse et quis iste est earum aut impedit', completed=false}, Todo{userId=7, id=124, title='qui consectetur id', completed=false}, Todo{userId=7, id=125, title='aut quasi autem iste tempore illum possimus', completed=false}, Todo{userId=7, id=128, title='eius omnis est qui voluptatem autem', completed=false}, Todo{userId=7, id=129, title='rerum culpa quis harum', completed=false}, Todo{userId=7, id=131, title='qui ea incidunt quis', completed=false}, Todo{userId=7, id=134, title='molestiae doloribus et laborum quod ea', completed=false}, Todo{userId=7, id=135, title='facere ipsa nam eum voluptates reiciendis vero qui', completed=false}, Todo{userId=7, id=136, title='asperiores illo tempora fuga sed ut quasi adipisci', completed=false}, Todo{userId=7, id=137, title='qui sit non', completed=false}, Todo{userId=7, id=139, title='consequatur doloribus id possimus voluptas a voluptatem', completed=false}]
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 8
+נוב 23, 2022 3:42:31 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 8: [Todo{userId=8, id=143, title='eum non recusandae cupiditate animi', completed=false}, Todo{userId=8, id=144, title='ut eum exercitationem sint', completed=false}, Todo{userId=8, id=145, title='beatae qui ullam incidunt voluptatem non nisi aliquam', completed=false}, Todo{userId=8, id=148, title='esse quas et quo quasi exercitationem', completed=false}, Todo{userId=8, id=149, title='animi voluptas quod perferendis est', completed=false}, Todo{userId=8, id=150, title='eos amet tempore laudantium fugit a', completed=false}, Todo{userId=8, id=152, title='odit eligendi recusandae doloremque cumque non', completed=false}, Todo{userId=8, id=153, title='ea aperiam consequatur qui repellat eos', completed=false}, Todo{userId=8, id=160, title='et praesentium aliquam est', completed=false}]
+נוב 23, 2022 3:42:31 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 9
+נוב 23, 2022 3:42:31 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 9: [Todo{userId=9, id=163, title='natus corrupti maxime laudantium et voluptatem laboriosam odit', completed=false}, Todo{userId=9, id=164, title='reprehenderit quos aut aut consequatur est sed', completed=false}, Todo{userId=9, id=165, title='fugiat perferendis sed aut quidem', completed=false}, Todo{userId=9, id=166, title='quos quo possimus suscipit minima ut', completed=false}, Todo{userId=9, id=167, title='et quis minus quo a asperiores molestiae', completed=false}, Todo{userId=9, id=168, title='recusandae quia qui sunt libero', completed=false}, Todo{userId=9, id=170, title='quisquam aliquam quia doloribus aut', completed=false}, Todo{userId=9, id=172, title='et provident amet rerum consectetur et voluptatum', completed=false}, Todo{userId=9, id=173, title='harum ad aperiam quis', completed=false}, Todo{userId=9, id=174, title='similique aut quo', completed=false}, Todo{userId=9, id=176, title='magni soluta corrupti ut maiores rem quidem', completed=false}, Todo{userId=9, id=177, title='et placeat temporibus voluptas est tempora quos quibusdam', completed=false}]
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: Get All Uncompleted Tasks For User: 10
+נוב 23, 2022 3:42:32 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: * * * Uncompleted Task for User ID - 10: [Todo{userId=10, id=181, title='ut cupiditate sequi aliquam fuga maiores', completed=false}, Todo{userId=10, id=184, title='molestias modi perferendis perspiciatis', completed=false}, Todo{userId=10, id=185, title='voluptates dignissimos sed doloribus animi quaerat aut', completed=false}, Todo{userId=10, id=186, title='explicabo odio est et', completed=false}, Todo{userId=10, id=187, title='consequuntur animi possimus', completed=false}, Todo{userId=10, id=192, title='ut quas possimus exercitationem sint voluptates', completed=false}, Todo{userId=10, id=194, title='sed ut vero sit molestiae', completed=false}, Todo{userId=10, id=200, title='ipsam aperiam voluptates qui', completed=false}]
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: Get active posts summary for each user
+נוב 23, 2022 3:42:32 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:32 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: Active posts summary: 
+ [1=[Post ID - 1, Emails repliers: [Eliseo@gardner.biz, Jayne_Kuhic@sydney.com, Nikita@garfield.biz, Lew@alysha.tv, Hayden@althea.biz] 
+, Post ID - 2, Emails repliers: [Presley.Mueller@myrl.com, Dallas@ole.me, Mallory_Kunze@marie.org, Meghan_Littel@rene.us, Carmen_Keeling@caroline.name] 
+, Post ID - 3, Emails repliers: [Veronica_Goodwin@timmothy.net, Oswald.Vandervort@leanne.org, Kariane@jadyn.tv, Nathan@solon.io, Maynard.Hodkiewicz@roberta.com] 
+, Post ID - 4, Emails repliers: [Christine@ayana.info, Preston_Hudson@blaise.tv, Vincenza_Klocko@albertha.name, Madelynn.Gorczany@darion.biz, Mariana_Orn@preston.org] 
+, Post ID - 5, Emails repliers: [Noemie@marques.me, Khalil@emile.co.uk, Sophia@arianna.co.uk, Jeffery@juwan.us, Isaias_Kuhic@jarrett.net] 
+, Post ID - 6, Emails repliers: [Russel.Parker@kameron.io, Francesco.Gleason@nella.us, Ronny@rosina.org, Jennings_Pouros@erica.biz, Lurline@marvin.biz] 
+, Post ID - 7, Emails repliers: [Buford@shaylee.biz, Maria@laurel.name, Jaeden.Towne@arlene.tv, Ethelyn.Schneider@emelia.co.uk, Georgianna@florence.io] 
+, Post ID - 8, Emails repliers: [Raheem_Heaney@gretchen.biz, Jacky@victoria.net, Piper@linwood.us, Gaylord@russell.net, Clare.Aufderhar@nicole.ca] 
+, Post ID - 9, Emails repliers: [Lucio@gladys.tv, Shemar@ewell.name, Jackeline@eva.tv, Marianna_Wilkinson@rupert.io, Marcia@name.biz] 
+, Post ID - 10, Emails repliers: [Jeremy.Harann@waino.me, Pearlie.Kling@sandy.com, Manuela_Stehr@chelsie.tv, Camryn.Weimann@doris.io, Kiana_Predovic@yasmin.io] 
+], 2=[Post ID - 11, Emails repliers: [Laurie@lincoln.us, Abigail.OConnell@june.org, Laverne_Price@scotty.info, Kenton_Vandervort@friedrich.com, Hayden_Olson@marianna.me] 
+, Post ID - 12, Emails repliers: [Vince_Crist@heidi.biz, Darron.Nikolaus@eulah.me, Ezra_Abshire@lyda.us, Jameson@tony.info, Americo@estrella.net] 
+, Post ID - 13, Emails repliers: [Aurelio.Pfeffer@griffin.ca, Vesta_Crooks@dora.us, Margarett_Klein@mike.biz, Freida@brandt.tv, Mollie@agustina.name] 
+, Post ID - 14, Emails repliers: [Janice@alda.io, Dashawn@garry.com, Devan.Nader@ettie.me, Joana.Schoen@leora.co.uk, Minerva.Anderson@devonte.ca] 
+, Post ID - 15, Emails repliers: [Lavinia@lafayette.me, Sabrina.Marks@savanah.name, Desmond_Graham@kailee.biz, Gussie_Kunde@sharon.biz, Richard@chelsie.co.uk] 
+, Post ID - 16, Emails repliers: [Gage_Turner@halle.name, Alfred@sadye.biz, Catharine@jordyn.com, Esther_Ratke@shayna.biz, Evangeline@chad.net] 
+, Post ID - 17, Emails repliers: [Newton.Kertzmann@anjali.io, Caleb_Herzog@rosamond.net, Sage_Mueller@candace.net, Bernie.Bergnaum@lue.com, Alexzander_Davis@eduardo.name] 
+, Post ID - 18, Emails repliers: [Jacquelyn@krista.info, Grover_Volkman@coty.tv, Jovanny@abigale.ca, Isac_Schmeler@barton.com, Sandy.Erdman@sabina.info] 
+, Post ID - 19, Emails repliers: [Alexandro@garry.io, Vickie_Schuster@harley.net, Roma_Doyle@alia.com, Tatum_Marks@jaylon.name, Juston.Ruecker@scot.tv] 
+, Post ID - 20, Emails repliers: [River.Grady@lavada.biz, Claudia@emilia.ca, Torrey@june.tv, Hildegard.Aufderhar@howard.com, Leone_Fay@orrin.com] 
+], 3=[Post ID - 21, Emails repliers: [Lura@rod.tv, Lottie.Zieme@ruben.us, Winona_Price@jevon.me, Gabriel@oceane.biz, Adolph.Ondricka@mozell.co.uk] 
+, Post ID - 22, Emails repliers: [Allen@richard.biz, Nicholaus@mikayla.ca, Kayla@susanna.org, Gideon@amina.name, Cassidy@maribel.io] 
+, Post ID - 23, Emails repliers: [Stefan.Crist@duane.ca, Aniyah.Ortiz@monte.me, Laverna@rico.biz, Derek@hildegard.net, Tyrell@abdullah.ca] 
+, Post ID - 24, Emails repliers: [Reyes@hailey.name, Danika.Dicki@mekhi.biz, Alessandra.Nitzsche@stephania.us, Matteo@marquis.net, Joshua.Spinka@toby.io] 
+, Post ID - 25, Emails repliers: [Annabelle@cole.com, Kacey@jamal.info, Mina@mallie.name, Hudson.Blick@ruben.biz, Domenic.Durgan@joaquin.name] 
+, Post ID - 26, Emails repliers: [Alexie@alayna.org, Haven_Barrows@brant.org, Marianne@maximo.us, Fanny@danial.com, Trevion_Kuphal@bernice.name] 
+, Post ID - 27, Emails repliers: [Emmet@guy.biz, Megane.Fritsch@claude.name, Amya@durward.ca, Jasen_Rempel@willis.org, Harmony@reggie.com] 
+, Post ID - 28, Emails repliers: [Rosanna_Kunze@guy.net, Ressie.Boehm@flossie.com, Domenic.Wuckert@jazmyne.us, Rhett.OKon@brian.info, Mathias@richmond.info] 
+, Post ID - 29, Emails repliers: [Ottis@lourdes.org, Estel@newton.ca, Bertha@erik.co.uk, Joesph@matteo.info, Alva@cassandre.net] 
+, Post ID - 30, Emails repliers: [Vivienne@willis.org, Angelita@aliza.me, Timmothy_Okuneva@alyce.tv, Moriah_Welch@richmond.org, Ramiro_Kuhn@harmon.biz] 
+], 4=[Post ID - 31, Emails repliers: [Cary@taurean.biz, Tillman_Koelpin@luisa.com, Aleen@tania.biz, Durward@cindy.com, Lester@chauncey.ca] 
+, Post ID - 32, Emails repliers: [Telly_Lynch@karl.co.uk, Makenzie@libbie.io, Amiya@perry.us, Meghan@akeem.tv, Mitchel.Williamson@fletcher.io] 
+, Post ID - 33, Emails repliers: [Ashlee_Jast@emie.biz, Antwan@lori.ca, Estelle@valentina.info, Haylie@gino.name, Blake_Spinka@robyn.info] 
+, Post ID - 34, Emails repliers: [Aimee.Bins@braeden.ca, Eloy@vladimir.com, Gabrielle@jada.co.uk, Lee@dawn.net, Gideon.Hyatt@jalen.tv] 
+, Post ID - 35, Emails repliers: [Gerda.Reynolds@ceasar.co.uk, Ivah@brianne.net, Ethyl_Bogan@candace.co.uk, Janelle_Guann@americo.info, Alfonzo.Barton@kelley.co.uk] 
+, Post ID - 36, Emails repliers: [Esther@ford.me, Naomie_Cronin@rick.co.uk, Darryl@reginald.us, Thea@aurelio.org, Carolyn@eloisa.biz] 
+, Post ID - 37, Emails repliers: [Milan.Schoen@cortney.io, Sabrina@raymond.biz, Hildegard@alford.ca, Lowell.Pagac@omari.biz, Vivianne@ima.us] 
+, Post ID - 38, Emails repliers: [Yasmin.Prohaska@hanna.co.uk, Ursula.Kirlin@eino.org, Nichole_Bartoletti@mozell.me, Lottie_Wyman@jasen.biz, Dominique_Hermann@paige.ca] 
+, Post ID - 39, Emails repliers: [Eugene@mohammed.net, Janick@marty.me, Alena@deron.name, Alphonso_Rosenbaum@valentin.co.uk, Frank@rosalind.name] 
+, Post ID - 40, Emails repliers: [Jenifer_Lowe@reuben.ca, Cecelia_Nitzsche@marty.com, Christop_Friesen@jordan.me, Cooper_Boehm@damian.biz, Amir@kaitlyn.org] 
+], 5=[Post ID - 41, Emails repliers: [Cleve@royal.us, Donnell@polly.net, Bonita@karl.biz, Shea@angelina.biz, Omari@veronica.us] 
+, Post ID - 42, Emails repliers: [Sophie@antoinette.ca, Jessika@crystel.ca, Cesar_Volkman@letitia.biz, Maureen_Mueller@lance.us, Eriberto@geovany.ca] 
+, Post ID - 43, Emails repliers: [Faustino.Keeling@morris.co.uk, Viola@aric.co.uk, Felton_Huel@terrell.biz, Ferne_Bogan@angus.info, Amy@reymundo.org] 
+, Post ID - 44, Emails repliers: [Jaylan.Mayert@norbert.biz, Cristina.DAmore@destini.biz, Ettie_Bashirian@lambert.biz, Lizeth@kellen.org, Vladimir_Schumm@sharon.tv] 
+, Post ID - 45, Emails repliers: [Madonna@will.com, Cicero_Goldner@elenor.tv, Zella@jan.net, Robin_Jacobi@verdie.net, Lawson@demarco.co.uk] 
+, Post ID - 46, Emails repliers: [Benton@jayde.tv, Melody@london.name, Wyman.Swaniawski@marjorie.name, Deborah@fletcher.co.uk, Dario@barton.info] 
+, Post ID - 47, Emails repliers: [Kelton_McKenzie@danial.us, Itzel@fritz.io, Jacquelyn_Kutch@kaya.co.uk, Cheyanne.Schowalter@alycia.biz, Macey@abbie.org] 
+, Post ID - 48, Emails repliers: [Freeda.Kirlin@eddie.ca, Jennifer.Rowe@zoe.org, Providenci.Heller@lenna.info, Emerald_Murazik@darrell.biz, Joseph@corrine.com] 
+, Post ID - 49, Emails repliers: [Lemuel@willow.name, Sven@gudrun.info, Jennifer@shania.ca, Eldora@madge.com, Litzy@kaylie.io] 
+, Post ID - 50, Emails repliers: [Jaycee.Turner@euna.name, Wilbert@cheyenne.ca, Rebecca_Hessel@edna.net, Christiana@lawrence.info, Samara@shaun.org] 
+], 6=[Post ID - 51, Emails repliers: [Ayden_Hickle@stephany.tv, Carissa.Krajcik@jean.name, Jayde@geovanny.io, Ardella@khalid.biz, Delta_Welch@carleton.tv] 
+, Post ID - 52, Emails repliers: [Carlee_Heathcote@harley.tv, Delpha_Cormier@raymond.org, Glenna@caesar.org, Hoyt_Dickens@napoleon.ca, Wendell.Marvin@maegan.net] 
+, Post ID - 53, Emails repliers: [Virgie@layne.org, Tia@kirsten.info, Marco@jennyfer.biz, Taya@milan.biz, Lenora@derrick.biz] 
+, Post ID - 54, Emails repliers: [Carolina.Auer@polly.co.uk, Jaylan.Braun@lane.us, Javier.Dicki@damien.org, Khalil_Sawayn@tanya.net, Tom.Russel@pattie.org] 
+, Post ID - 55, Emails repliers: [Ethelyn.Moore@gabe.info, Evangeline_Kuvalis@santina.ca, Orland@larry.name, Micaela.Powlowski@saul.me, Imelda_Klein@melany.biz] 
+, Post ID - 56, Emails repliers: [Matt.Moen@gilda.org, Rocky_Ullrich@rowena.name, Natalia@caitlyn.ca, Edythe@general.org, Aglae@gerardo.name] 
+, Post ID - 57, Emails repliers: [Bridie@pearl.ca, Aglae_Goldner@madisyn.co.uk, Owen_Moore@jeremy.org, Jarred@dangelo.name, Remington_Mohr@vincenza.me] 
+, Post ID - 58, Emails repliers: [Marco.Langworth@zoie.org, Sedrick@mertie.tv, Caleigh@eleanore.org, Paolo@cristopher.com, Juana_Stamm@helmer.com] 
+, Post ID - 59, Emails repliers: [Pascale@fleta.ca, Molly_Kertzmann@tristin.me, Kailee.Larkin@amina.org, Earnest.Sanford@lane.us, Abigail@trudie.com] 
+, Post ID - 60, Emails repliers: [Name.Walter@zoie.me, Norma@abraham.co.uk, Norberto_Weimann@ford.tv, Nelson@charlene.biz, Letha@liliane.ca] 
+], 7=[Post ID - 61, Emails repliers: [Tiana@jeramie.tv, Lindsey@caitlyn.net, Gregory.Kutch@shawn.info, Murphy.Kris@casimer.me, Isidro_Kiehn@cristina.org] 
+, Post ID - 62, Emails repliers: [Kenton_Carter@yolanda.co.uk, Amos_Rohan@mozelle.tv, Timothy_Heathcote@jose.name, Otilia.Daniel@elvie.io, Toni@joesph.biz] 
+, Post ID - 63, Emails repliers: [Brisa@carrie.us, Jasen.Kihn@devon.biz, Efren.Konopelski@madisyn.us, Demetris.Bergnaum@fae.io, Luella.Pollich@gloria.org] 
+, Post ID - 64, Emails repliers: [Sister.Morissette@adelia.io, Shyanne@rick.info, Freeman.Dare@ada.name, Donnell@orland.org, Robin@gaylord.biz] 
+, Post ID - 65, Emails repliers: [Danyka_Stark@jedidiah.name, Margarita@casper.io, Carlo@cortney.net, Mina@nikita.tv, Violette@naomi.tv] 
+, Post ID - 66, Emails repliers: [Lauren.Hodkiewicz@jarret.info, Ernestina@piper.biz, Hettie_Morar@wiley.info, Corbin.Hilll@modesto.biz, Kenyatta@renee.io] 
+, Post ID - 67, Emails repliers: [Don@cameron.co.uk, Jovan@aaliyah.tv, Jeanie.McGlynn@enoch.ca, Garett_Gusikowski@abigale.me, Doug@alana.co.uk] 
+, Post ID - 68, Emails repliers: [Yoshiko@viviane.name, Micaela_Bins@mertie.us, Loy@gillian.me, Tyrel@hunter.net, Otilia.Schuppe@randal.com] 
+, Post ID - 69, Emails repliers: [April@larissa.co.uk, Glenna_Waters@retha.me, Cordelia.Oberbrunner@peyton.com, Zander@santino.net, Camila_Runolfsdottir@tressa.tv] 
+, Post ID - 70, Emails repliers: [Kirstin@tina.info, Anthony.Koepp@savannah.tv, Bradley.Lang@marilyne.tv, Loren@aric.biz, Arjun@natalie.ca] 
+], 8=[Post ID - 71, Emails repliers: [Solon.Goldner@judah.org, Nina@osbaldo.name, Madaline@marlin.org, Mike.Kozey@gladyce.us, Orval.Treutel@arnold.me] 
+, Post ID - 72, Emails repliers: [Trent@samir.net, Ashleigh@annette.ca, Douglas@anabel.org, Lowell@mossie.com, Jacquelyn@kristian.net] 
+, Post ID - 73, Emails repliers: [Antwon@domenico.me, Kenyon@retha.me, Ben@elouise.net, Madisen.Hauck@barney.co.uk, Dock.Parker@roy.biz] 
+, Post ID - 74, Emails repliers: [Pablo.Ritchie@tyrique.co.uk, Sebastian_Gaylord@freda.org, Lazaro@nadia.ca, Jessy.Boyle@vernice.biz, Mitchel@hal.co.uk] 
+, Post ID - 75, Emails repliers: [Lindsay@kiley.name, Erika.Murazik@jorge.me, Olin@edmund.ca, Lacey@novella.biz, Sister@miller.net] 
+, Post ID - 76, Emails repliers: [Raphaelle@miller.com, Jaren.Schiller@augusta.org, Nikko_Reynolds@harry.me, Afton.Medhurst@mina.info, Wilson.Nikolaus@fredrick.org] 
+, Post ID - 77, Emails repliers: [Tomasa@lee.us, Ally_Kassulke@rashad.ca, Reagan_Ziemann@ross.io, Angelita@sally.org, Lonzo@lorena.org] 
+, Post ID - 78, Emails repliers: [Alexandre@derrick.co.uk, Judd@lucinda.ca, Eleanora@karson.net, Enrico_Feil@liana.biz, Beverly@perry.org] 
+, Post ID - 79, Emails repliers: [Corene_Mante@rory.com, Emily_Flatley@ephraim.name, Donna@frederik.com, Kyleigh@ruben.org, Noemy.Hammes@lisette.net] 
+, Post ID - 80, Emails repliers: [Margarett_Jenkins@harley.us, Dexter.Pacocha@lauren.biz, Gennaro@jaunita.co.uk, Jaycee@aimee.us, Brennon@carmela.tv] 
+], 9=[Post ID - 81, Emails repliers: [Vella.Mayer@colten.net, Caleb_Dach@kathleen.us, Patience_Bahringer@dameon.biz, Destinee.Simonis@jose.tv, Keshaun@brown.biz] 
+, Post ID - 82, Emails repliers: [Merle.Schultz@marcel.org, Malvina_Fay@louie.name, Domenick_Douglas@gabe.us, Isaac@allene.net, Marianna.Pacocha@george.net] 
+, Post ID - 83, Emails repliers: [Sister_Barton@lela.com, Autumn.Lebsack@kasandra.ca, Irma.OKon@arden.me, Alaina_Hammes@carter.info, Alia@addison.org] 
+, Post ID - 84, Emails repliers: [Aurelie_McKenzie@providenci.biz, May_Steuber@virgil.net, Tessie@emilie.co.uk, Priscilla@colten.org, Aylin@abigale.me] 
+, Post ID - 85, Emails repliers: [Holden@kenny.io, Guillermo_Dare@dorothea.tv, Oscar@pearline.com, Jonathon_Feest@maxime.io, Micah_Wolf@lennie.co.uk] 
+, Post ID - 86, Emails repliers: [Shany@daisha.biz, Drew_Lemke@alexis.net, Karina.Donnelly@liam.com, Ahmed_Runolfsson@claire.name, Marilou_Halvorson@kane.io] 
+, Post ID - 87, Emails repliers: [Bernie.Schoen@seamus.co.uk, Joesph@darryl.net, Timmothy.Corwin@augustus.co.uk, Julien_OHara@vance.io, Susan.Bartell@euna.org] 
+, Post ID - 88, Emails repliers: [Selena.Quigley@johan.co.uk, Clifton_Boehm@jacynthe.io, Lizzie_Bartell@diamond.net, Yasmeen@golda.ca, Adolf.Russel@clark.ca] 
+, Post ID - 89, Emails repliers: [Elian@matilda.me, Salma@francis.net, Orlando_Dickinson@vern.org, Elda@orval.name, Dennis@karley.net] 
+, Post ID - 90, Emails repliers: [Jedediah@mason.io, Maryam@jack.name, Rick@carlos.tv, Vallie@jerrod.net, Adolph.Hayes@isobel.biz] 
+], 10=[Post ID - 91, Emails repliers: [Duane_Dach@demario.us, General@schuyler.org, Stephania_Stanton@demond.biz, Reinhold.Schiller@kelly.info, Royce@jaiden.co.uk] 
+, Post ID - 92, Emails repliers: [Cassie@diana.org, Jena.OKeefe@adonis.net, Magdalen@holly.io, Nyah@otho.com, Kara_Stokes@connie.co.uk] 
+, Post ID - 93, Emails repliers: [Conner@daron.info, Nathanael@jada.org, Nicklaus@talon.io, Jerald@laura.io, Jamey_Dare@johnny.org] 
+, Post ID - 94, Emails repliers: [Brant@yasmin.co.uk, Adrianna_Howell@molly.io, Amiya.Morar@emma.tv, Destany@bailey.info, Katarina.Wolff@joel.io] 
+, Post ID - 95, Emails repliers: [Pearline@veda.ca, Belle.Braun@otis.name, Eliane@libby.net, Trey.Harber@christop.biz, Kailyn@ivory.info] 
+, Post ID - 96, Emails repliers: [Amely.Kunde@rodrigo.co.uk, Thaddeus.Halvorson@ruthe.ca, Hannah@emma.ca, Maryam.Mann@thelma.info, Michel@keira.us] 
+, Post ID - 97, Emails repliers: [Domenick@russell.ca, Chanelle@samson.me, Hermann.Kunde@rosina.us, Olen@bryce.net, Lorenza.Carter@consuelo.ca] 
+, Post ID - 98, Emails repliers: [Lamont@georgiana.biz, Colin_Gutkowski@muriel.net, Albert@johnny.biz, Hilma.Kutch@ottilie.info, Donnie@alfreda.biz] 
+, Post ID - 99, Emails repliers: [Maxwell@adeline.me, Amina@emmet.org, Gilda@jacques.org, Kadin@walter.io, Alice_Considine@daren.com] 
+, Post ID - 100, Emails repliers: [Zola@lizzie.com, Dolly@mandy.co.uk, Davion@eldora.net, Wilburn_Labadie@araceli.name, Emma@joanny.ca] 
+]]
+נוב 23, 2022 3:42:32 AM MainTrainTask1 main
+INFO: All albums of a specific user that contains more photos than a given threshold
+נוב 23, 2022 3:42:32 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:33 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:33 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:33 AM MainTrainTask1 main
+INFO: All albums of User ID - 1 that contains more photos than 164: []
+נוב 23, 2022 3:42:33 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:33 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:34 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:34 AM MainTrainTask1 main
+INFO: All albums of User ID - 2 that contains more photos than 103: []
+נוב 23, 2022 3:42:34 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:34 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:34 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:35 AM MainTrainTask1 main
+INFO: All albums of User ID - 3 that contains more photos than 108: []
+נוב 23, 2022 3:42:35 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:35 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:35 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:36 AM MainTrainTask1 main
+INFO: All albums of User ID - 4 that contains more photos than 139: []
+נוב 23, 2022 3:42:36 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:36 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:36 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:37 AM MainTrainTask1 main
+INFO: All albums of User ID - 5 that contains more photos than 126: []
+נוב 23, 2022 3:42:37 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:37 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:37 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:37 AM MainTrainTask1 main
+INFO: All albums of User ID - 6 that contains more photos than 129: []
+נוב 23, 2022 3:42:37 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:37 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:38 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:38 AM MainTrainTask1 main
+INFO: All albums of User ID - 7 that contains more photos than 132: []
+נוב 23, 2022 3:42:38 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:38 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:39 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:39 AM MainTrainTask1 main
+INFO: All albums of User ID - 8 that contains more photos than 157: []
+נוב 23, 2022 3:42:39 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:39 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:39 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:40 AM MainTrainTask1 main
+INFO: All albums of User ID - 9 that contains more photos than 48: [81, 82, 83, 84, 85, 86, 87, 88, 89, 90]
+נוב 23, 2022 3:42:40 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:40 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:40 AM services.FirstTaskService getResponse
+INFO: Omerrrr
+נוב 23, 2022 3:42:41 AM MainTrainTask1 main
+INFO: All albums of User ID - 10 that contains more photos than 56: []
+נוב 23, 2022 3:42:41 AM MainTrainTask1 main
+INFO: Finished Task 1
