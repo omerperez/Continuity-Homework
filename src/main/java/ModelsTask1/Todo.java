@@ -1,19 +1,19 @@
-package Models;
+package ModelsTask1;
 
-public class Post {
+public class Todo {
+
     private Integer userId;
     private Integer id;
     private String title;
-    private String body;
+    private Boolean completed;
 
-    public Post() {
-    }
+    public Todo() {}
 
-    public Post(Integer userId, Integer id, String title, String body) {
+    public Todo(Integer userId, Integer id, String title, Boolean completed) {
         this.userId = userId;
         this.id = id;
         this.title = title;
-        this.body = body;
+        this.completed = completed;
     }
 
     public Integer getUserId() {
@@ -40,21 +40,23 @@ public class Post {
         this.title = title;
     }
 
-    public String getBody() {
-        return body;
+    public Boolean getCompleted() {
+        return completed;
     }
 
-    public void setBody(String body) {
-        this.body = body;
+    public void setCompleted(Boolean completed) {
+        this.completed = completed;
     }
 
     @Override
     public String toString() {
-        return "Post{" +
+        return "Todo{" +
                 "userId=" + userId +
                 ", id=" + id +
                 ", title='" + title + '\'' +
-                ", body='" + body + '\'' +
+                ", completed=" + completed +
                 '}';
     }
 }
+
+

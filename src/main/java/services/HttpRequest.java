@@ -25,13 +25,11 @@ public class HttpRequest {
                     new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8))) {
                 {
                     StringBuilder response = new StringBuilder();
-                    String responseLine = null;
+                    String responseLine;
                     while ((responseLine = bufferedReader.readLine()) != null) {
                         response.append(responseLine.trim());
                     }
-//                    JSONArray jsonObj = new JSONArray(response.toString());
                     return response.toString();
-
                 }
             } catch (Exception e) {
                 e.printStackTrace();

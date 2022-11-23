@@ -1,19 +1,17 @@
-package Models;
+package ModelsTask1;
 
-public class Todo {
-
+public class Album {
     private Integer userId;
     private Integer id;
     private String title;
-    private Boolean completed;
 
-    public Todo() {}
+    public Album() {
+    }
 
-    public Todo(Integer userId, Integer id, String title, Boolean completed) {
+    public Album(Integer userId, Integer id, String title) {
         this.userId = userId;
         this.id = id;
         this.title = title;
-        this.completed = completed;
     }
 
     public Integer getUserId() {
@@ -40,23 +38,12 @@ public class Todo {
         this.title = title;
     }
 
-    public Boolean getCompleted() {
-        return completed;
-    }
-
-    public void setCompleted(Boolean completed) {
-        this.completed = completed;
-    }
-
     @Override
     public String toString() {
-        return "Todo{" +
+        return "Album{" +
                 "userId=" + userId +
                 ", id=" + id +
                 ", title='" + title + '\'' +
-                ", completed=" + completed +
                 '}';
     }
 }
-
-

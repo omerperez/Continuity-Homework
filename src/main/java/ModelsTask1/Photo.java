@@ -1,4 +1,4 @@
-package Models;
+package ModelsTask1;
 
 public class Photo {
     private Integer albumId;

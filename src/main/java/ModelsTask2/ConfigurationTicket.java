@@ -1,6 +1,5 @@
 package ModelsTask2;
 
-import task2.Ticket;
 
 public class ConfigurationTicket extends Ticket {
 

@@ -1,7 +1,7 @@
 import ModelsTask2.BestPracticeTicket;
 import ModelsTask2.ConfigurationTicket;
 import ModelsTask2.SecurityTicket;
-import task2.Ticket;
+import ModelsTask2.Ticket;
 
 import java.util.Random;
 import java.util.UUID;
@@ -19,7 +19,7 @@ public class TicketFactory {
         }
         String ticketId = UUID.randomUUID().toString();
         Double randomSeverityScore = (r.nextDouble() * calcRangeNumber) % calcRangeNumber;
-        Integer randomCveLocation = r.nextInt(4);
+        int randomCveLocation = r.nextInt(4);
         switch (ticketType){
             case "Security":
                 return new SecurityTicket(ticketId, randomSeverityScore, listOfCVE.get(randomCveLocation), represent);

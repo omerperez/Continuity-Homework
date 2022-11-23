@@ -1,17 +1,19 @@
-package Models;
+package ModelsTask1;
 
-public class Album {
+public class Post {
     private Integer userId;
     private Integer id;
     private String title;
+    private String body;
 
-    public Album() {
+    public Post() {
     }
 
-    public Album(Integer userId, Integer id, String title) {
+    public Post(Integer userId, Integer id, String title, String body) {
         this.userId = userId;
         this.id = id;
         this.title = title;
+        this.body = body;
     }
 
     public Integer getUserId() {
@@ -38,12 +40,21 @@ public class Album {
         this.title = title;
     }
 
+    public String getBody() {
+        return body;
+    }
+
+    public void setBody(String body) {
+        this.body = body;
+    }
+
     @Override
     public String toString() {
-        return "Album{" +
+        return "Post{" +
                 "userId=" + userId +
                 ", id=" + id +
                 ", title='" + title + '\'' +
+                ", body='" + body + '\'' +
                 '}';
     }
 }

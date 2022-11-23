@@ -18,7 +18,6 @@ public class MainTrainTask1 {
 		SimpleFormatter formatter = new SimpleFormatter();
 		handler.setFormatter(formatter);
 
-
 		/* Get All Users From Api */
 		List<Integer> usersId = FirstTaskService.getInstance().getUsersIdList();
 		if(usersId != null){

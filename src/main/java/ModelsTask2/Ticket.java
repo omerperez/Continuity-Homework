@@ -1,4 +1,4 @@
-package task2;
+package ModelsTask2;
 
 import java.util.ArrayList;
 import java.util.List;

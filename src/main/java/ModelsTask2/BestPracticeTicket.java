@@ -1,7 +1,5 @@
 package ModelsTask2;
 
-import task2.Ticket;
-
 public class BestPracticeTicket extends Ticket {
 
     private String id;

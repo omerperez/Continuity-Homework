@@ -1,15 +1,13 @@
-import task2.Ticket;
+import ModelsTask2.Ticket;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 import java.util.logging.Logger;
 
 import static constant.IConstantSecondPart.ticketsTypes;
-import static task2.Ticket.ticketList;
 
 public class MainTrainTask2 {
 
+	public static List<Ticket> ticketList = new ArrayList<>();
 
 	public static void main(String[] args) {
 		TicketFactory ticketFactory = new TicketFactory();
@@ -22,27 +20,28 @@ public class MainTrainTask2 {
 		}
 
 		Map<String, Integer> score = new HashMap<>();
-		for(Ticket ticket: ticketList){
+		Map<String, Integer> typeOfCVE = new HashMap<>();
+
+		for(Ticket ticket: Ticket.ticketList){
 			if(score.containsKey(ticket.getSeverityLevel())){
 				Integer count = score.get(ticket.getSeverityLevel());
 				score.put(ticket.getSeverityLevel(), count + 1 );
 			} else {
 				score.put(ticket.getSeverityLevel(), 1);
 			}
-		}
-		System.out.println(score);
-
-		Map<String, Integer> CVE = new HashMap<>();
-		for(int i = 0; i < ticketList.size(); i++){
-			if(CVE.containsKey(ticketList.get(i).getCVE())){
-				Integer count = CVE.get(ticketList.get(i).getCVE());
-				CVE.put(ticketList.get(i).getCVE(), count + 1);
+			if(typeOfCVE.containsKey(ticket.getCVE())){
+				Integer count = typeOfCVE.get(ticket.getCVE());
+				typeOfCVE.put(ticket.getCVE(), count + 1);
 			} else {
-				if(ticketList.get(i).getCVE() != null) {
-					CVE.put(ticketList.get(i).getCVE(), 1);
+				if(ticket.getCVE() != null) {
+					typeOfCVE.put(ticket.getCVE(), 1);
 				}
 			}
 		}
-		System.out.println(CVE);
+		System.out.println("Severity: ");
+		System.out.println(score);
+
+		System.out.println("CVE: ");
+		System.out.println(typeOfCVE);
 	}
 }

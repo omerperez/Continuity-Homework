@@ -1,6 +1,6 @@
 package services;
 
-import Models.*;
+import ModelsTask1.*;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
@@ -30,7 +30,7 @@ public class FirstTaskService {
         if(response != null && !(response.isEmpty() || response.equals("[]"))){
             return true;
         } else {
-            Logger.getLogger("services").info(String.format("Response from Api is empty"));
+            Logger.getLogger("services").info("Response from Api is empty");
             return false;
         }
     }
@@ -107,7 +107,7 @@ public class FirstTaskService {
                 Type listOfCommentsObject = new TypeToken<ArrayList<Comment>>() {}.getType();
                 List<Comment> comments = gsonBuilder.fromJson(response, listOfCommentsObject);
                 return comments.stream().collect(
-                        Collectors.groupingBy(x -> x.getPostId(), Collectors.mapping(x -> x.getEmail(), Collectors.toList()))
+                        Collectors.groupingBy(Comment::getPostId, Collectors.mapping(Comment::getEmail, Collectors.toList()))
                 );
             }
         } catch(Exception e){
@@ -172,15 +172,15 @@ public class FirstTaskService {
     }
 
     public String listToParams(List<Integer> list){
-        String params = "";
+        StringBuilder params = new StringBuilder();
         for(int i =0; i < list.size(); i++){
             if(i == 0){
-                params += String.format("?albumId=%s", list.get(i));
+                params.append(String.format("?albumId=%s", list.get(i)));
             } else {
-                params += String.format("&&albumId=%s", list.get(i));
+                params.append(String.format("&&albumId=%s", list.get(i)));
             }
         }
-        return String.format("%s%s%s" ,baseUrl, photos, params);
+        return String.format("%s%s%s" ,baseUrl, photos, params.toString());
     }
 
     public Set<Integer> getAlbumsKeysAboveThreshold(Map<Integer, List<Integer>> albumsIdImages, Integer threshold){
@@ -204,9 +204,9 @@ public class FirstTaskService {
 
             Map<Integer, List<Integer>> albumsIdImages = photos.stream().collect(
                     Collectors.groupingBy(
-                            x -> x.getAlbumId(),
+                            Photo::getAlbumId,
                             Collectors.mapping(
-                                    x -> x.getId(),
+                                    Photo::getId,
                                     Collectors.toList()
                             )
                     )
